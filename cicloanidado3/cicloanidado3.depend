@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1383087590 source:c:\users\diego banegas\documents\github\progra2\cicloanidado3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
